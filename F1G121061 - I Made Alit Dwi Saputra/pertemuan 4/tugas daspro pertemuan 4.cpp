@@ -6,7 +6,7 @@ int main(){
 	char pilihan;
 	awal:
 	cout<<"==========SELAMAT DATANG DI PAS RENTAL CAR KENDARI==========="<<endl;
-	cout<<"============PROJECT BY I MADE ALIT DWI SAPUTRA"============<<endl;
+	cout<<"============PROJECT BY I MADE ALIT DWI SAPUTRA============"<<endl;
 	cout<<"1.Mobil Avanza"<<endl<<"2.Mobil Xenia"<<endl<<"3.Mobil Inova"<<endl;
 	cout<<"Masukkan Pilihan Anda : ";
 	cin>>inputUser;
