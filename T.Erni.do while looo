@@ -1,0 +1,27 @@
+#include <iostream>
+
+using namespace std;
+ 
+int main(){
+	
+system("title contoh sederhana do while loop");
+
+  cout<<"Nama  :  Erni"<<endl;
+  cout<<"Nim     : F1G121053"<<endl;
+  cout<<"Prodi   : Ilmu komputer"<<endl;
+  
+  cout<<"contoh program sederhana do while loop"<<endl;
+  
+  system("pause");
+   int a = 1;
+   do{
+   	cout<<a<<endl;
+   	a++;
+  
+  } while(a <= 7);
+  cout << " finish " << endl;
+  
+  cin.get();
+  
+  return 0;
+}
