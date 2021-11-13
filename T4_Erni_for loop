@@ -1,0 +1,26 @@
+#include <iostream>
+
+  using namespace std;
+  
+  int main(){
+  	
+system("title contoh sederhana for loop");
+  	
+  	cout<<"Nama : Erni"<<endl;
+  	cout<<"Nim    :  F1G121053"<<endl;
+  	cout<<"prodi   : Ilmu komputer"<<endl;
+  cout<<"contoh sederhana for loop";
+ 
+ system("pause");
+ 
+ cout<<"awal for loop \n";
+ for(int counter = 1; counter <= 10; counter ++){
+    cout << counter << endl;
+ }
+ cout<<"akhir dari program \n";
+ 
+ return 0;
+ 
+  }
+ 
+  

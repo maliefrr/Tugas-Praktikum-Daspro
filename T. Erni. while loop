@@ -1,0 +1,30 @@
+#include <iostream>
+
+using namespace std;
+ 
+int main(){
+	
+system("title contoh sederhana while loop");
+
+  cout<<"Nama  :  Erni"<<endl;
+  cout<<"Nim     : F1G121053"<<endl;
+  cout<<"Prodi   : Ilmu komputer"<<endl;
+  
+  cout<<"contoh program sederhana while loop"<<endl;
+  
+  system("pause");
+  
+  cout<<"awal while loop \n";
+  
+  int a = 7;
+  while(a <= 15){
+  	cout << " Tugas ";
+  	cout << a <<endl;
+  	a +=1;
+  }
+  cout << " finish " << endl;
+  
+  cin.get();
+  
+  return 0;
+}
